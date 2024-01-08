@@ -127,14 +127,14 @@ order by
 
 -- Q10. What was the volume of orders for each day of the week?
 select
-	to_char(order_time + interval '2 day', 'day') as day_of_week,
+	to_char(order_time, 'day') as day_of_week,
     count(order_id) as pizza_ordered_count
 from
 	pizza_runner.customer_orders_clean
 group by
-	to_char(order_time + interval '2 day', 'day')
+	to_char(order_time, 'day')
 order by
-	to_char(order_time + interval '2 day', 'day') ASC;
+	to_char(order_time, 'day') ASC;
 
 -- Part II --
 -- Q1. How many runners signed up for each 1 week period? (i.e. week starts 2021-01-01)
