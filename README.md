@@ -6,4 +6,4 @@
 
 ## 2. [8 Weeks SQL Challenge](https://github.com/npanphu97/Phu_Nguyen_Portfolio/tree/main/8_Weeks_SQL_Challenge)
 
-## 3. [fbProphet hyperparameter tuning](https://github.com/npanphu97/Phu_Nguyen_Portfolio/blob/main/fbProphet/fbprophet.ipynb)https://github.com/npanphu97/Phu_Nguyen_Portfolio/blob/main/fbProphet/fbprophet.ipynb
+## 3. [fbProphet hyperparameter tuning](https://github.com/npanphu97/Phu_Nguyen_Portfolio/blob/main/fbProphet/fbprophet.ipynb)
