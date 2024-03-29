@@ -236,7 +236,7 @@ order by
 	runner_id;
 ```
 
-## Q3.Is there any relationship between the number of pizzas and how long the order takes to prepare?
+## Q3. Is there any relationship between the number of pizzas and how long the order takes to prepare?
 ```SQL
 select
 	c.order_id,
